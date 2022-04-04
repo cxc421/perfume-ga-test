@@ -30,7 +30,7 @@ new Perfume({
 });
 
 function initGA() {
-  ReactGA.initialize("", {
+  ReactGA.initialize("G-JFQZZMZWJV", {
     gaOptions: {
       userId: "Chris",
     },
